@@ -17,7 +17,7 @@
 ---
 
 ### 👨‍💻 Portafolio / Links
-- 🌐 Portafolio: (pon aquí tu link)
+- 🌐 Portafolio: Coming soon...
 - 💼 LinkedIn: https://www.linkedin.com/in/luis-rivera-l%C3%B3pez-490130276/
 
 ---
@@ -35,22 +35,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![Vite](https://img.shields.io/badge/-Vite-purple?style=flat&logo=vite)
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark" />
-</p>
-
----
-
-### 👀 Contador de visitas
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=TU_USUARIO.TU_USUARIO" />
-</p>
 
 ---
 
