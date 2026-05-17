@@ -1,4 +1,4 @@
-![Web-developer]([https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png](https://github.com/Luis220922/Luis220922/blob/main/Luis.png))
+![Web-developer](https://raw.githubusercontent.com/Luis220922/Luis220922/main/Luis.png)
 
 ## Bienvenido a mi mundo 🌎
 
